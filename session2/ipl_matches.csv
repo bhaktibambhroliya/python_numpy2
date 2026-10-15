@@ -1,0 +1,22 @@
+
+match_id,season,city,team1,team2,winner,player_of_match
+1,2024,Chennai,CSK,RCB,RCB,Virat Kohli
+2,2024,Ahmedabad,GT,MI,GT, Sai Sudharsan
+3,2024,Mumbai,MI,SRH,SRH,Abhishek Sharma
+4,2024,Kolkata,KKR,SRH,KKR,Andre Russell
+5,2024,Jaipur,RR,LSG,RR,Sanju Samson
+6,2024,Bengaluru,RCB,PBKS,RCB,Virat Kohli
+7,2024,Chennai,CSK,GT,CSK,Ruturaj Gaikwad
+8,2024,Delhi,DC,CSK,CSK,MS Dhoni
+9,2024,Hyderabad,SRH,MI,SRH,Travis Head
+10,2024,Lucknow,LSG,PBKS,LSG,Mayank Yadav
+11,2024,Ahmedabad,GT,CSK,CSK,Rachin Ravindra
+12,2024,Mumbai,MI,RCB,RCB,Faf du Plessis
+13,2024,Kolkata,KKR,DC,KKR,Sunil Narine
+14,2024,Jaipur,RR,GT,RR,Riyan Parag
+15,2024,Delhi,DC,SRH,SRH,Travis Head
+16,2024,Chennai,CSK,KKR,CSK,Ravindra Jadeja
+17,2024,Bengaluru,RCB,KKR,KKR,Sunil Narine
+18,2024,Hyderabad,SRH,CSK,SRH,Abhishek Sharma
+19,2024,Lucknow,LSG,MI,LSG,Marcus Stoinis
+20,2024,Ahmedabad,GT,RCB,RCB,Will Jacks

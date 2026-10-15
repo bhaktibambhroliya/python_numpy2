@@ -1,0 +1,7 @@
+df = pd.concat(tables, ignore_index=True)
+
+# CSV file save karein
+df.to_csv("IPL_2023_Batsmen.csv", index=False)
+
+print("PDF successfully CSV mein convert ho gayi!")
+print(df.head(10))
